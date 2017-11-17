@@ -1,4 +1,4 @@
-# Unreal Engine 4 VR Intro Starter Project READ ME
+# Unreal Engine 4 VR Advanced Starter Project READ ME
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [Unreal Engine 4 VR Nanodegree](https://www.udacity.com)
 
